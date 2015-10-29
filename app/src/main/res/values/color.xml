@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#008844</color>
+    <drawable name="button">#008844</drawable>
+    <drawable name="text_background">#77ffee</drawable>
+    <drawable name="grid_background">#fffff48c</drawable>
+</resources>

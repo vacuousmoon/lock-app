@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lock App</string>
+
+    <string name="title_section1">首頁</string>
+    <string name="title_section2">加入App</string>
+    <string name="title_section3">取消App</string>
+    <string name="title_section4">修改密碼</string>
+    <string name="title_section5">離開</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
